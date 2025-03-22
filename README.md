@@ -3,17 +3,17 @@
 Website desenvolvido com React.js para uma loja de livros, criado com o objetivo de aprimorar minhas habilidades em desenvolvimento web.
 
 # Sistema de busca de livros 
-
-![Descrição da imagem](src\assets\Foto1.PNG)
+![BOOKSTORE_WEB](src/assets/Foto1.PNG)
 
 # Navegação lateral e Aba de Destaque
 
-![Descrição da imagem](src\assets\Foto2.PNG)
+![alt text](image.png)
+
 
 # Carrossel de livros
 
 
-![Descrição da imagem](src\assets\Foto3.PNG)
+![alt text](image-1.png)
 
 ## Referência 
 
