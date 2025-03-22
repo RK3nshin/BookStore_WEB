@@ -1,0 +1,16 @@
+.container-book{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: justify;
+}
+.container-book img{
+    height: 300px;
+    width: 200px;
+    align-items: center;
+}
+
+.author{
+    font-weight: 800;
+}

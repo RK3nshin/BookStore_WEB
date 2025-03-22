@@ -1,0 +1,61 @@
+
+#Navigation-bar , #Logo-bar , #item-list{
+    display: flex;
+    align-items: center;
+}
+#Navigation-bar {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    z-index: 1;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+    height: 4rem;
+    margin: 0 auto;
+    width: 100%;
+}
+#Logo-bar{
+    gap: 0.6rem;
+    letter-spacing: 3px;
+}
+#Logo-bar span{
+    color: rgb(179, 174, 174);
+}
+.item-bar  a{
+    color: black;
+}
+#item-list{
+    gap: 2rem;
+    
+}
+#item-list>ul{
+    gap: 2rem;
+    display: flex;
+}
+#item-list ul li a{
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+} 
+#item-list  ul li a:hover{
+    border-bottom: 3px solid white;
+    border-color: white;
+}
+
+#btn-login{
+    width: 8rem;
+    border-radius: 30px;
+    height: 2.5rem;
+    background-color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s;
+    
+}
+
+#btn-login:hover{
+    background-color: rgb(207, 205, 205);
+}
+#menu-mobile{
+    display: none;
+}

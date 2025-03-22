@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rambla:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.card-container{
+    display: flex;
+    padding: 2rem;
+    width: 38vw;
+}
+.card-container img{
+    height: 15rem;
+    margin-right: 1rem;
+}
+.card-container .info{
+    gap: 1rem;
+    color: rgba(0, 0, 0, 0.356);
+    
+}
+.card-container .autor{ 
+    font-style: italic;
+    margin-bottom: 0.5rem;
+
+}
+.card-container .info .description{
+    font-family: "Rambla", sans-serif;
+    text-align: justify;
+
+}
+.card-container .info h3 {
+    color: black;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    text-align: justify;
+
+}
+.stars {
+    display: flex;
+    
+   
+}
+.stars p{
+    margin-left: 20px;
+}
+.btn-price{
+    background-color: rgba(255, 150, 29, 0.1);
+    width: 80%;
+    border-color: #FF971D;
+    color: #FF971D;
+    border-radius: 10px;
+    height: 2.5rem;
+    font-size: 16px;
+    padding: 10px;
+}

@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+#list-container{
+    display:  flex;
+    width: 20%;
+    justify-content: center;
+}
+#main-list{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4rem;
+    padding: 3vw;
+    gap: 1rem;
+    font-family: "Karla", sans-serif;;
+
+}
+#main-list ul {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+}
+#main-list ul li {
+    height: 2em;
+    display: flex;
+    align-items: center;
+    padding: 0.2rem;
+}
+
+#main-list ul li a {
+    color: black;
+    font-weight: 400;
+    text-align: center;
+    font-style: italic;
+}
+#main-list ul li:hover{
+    background-color:white;
+
+}
+
+#main-list ul li a:hover {
+    color: #FF971D;
+}

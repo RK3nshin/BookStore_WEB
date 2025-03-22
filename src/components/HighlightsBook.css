@@ -1,0 +1,19 @@
+.cards-best{
+    margin: 1rem auto; 
+    text-align: center;
+  
+  }
+.cards-best h2{
+    text-align: justify;
+    padding: 1rem;
+    font-weight: 600;
+    margin-left: 1rem;
+  }
+  
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 16px; 
+    justify-content: center;
+    align-items: center;
+  }
