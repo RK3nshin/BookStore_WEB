@@ -7,13 +7,13 @@ Website desenvolvido com React.js para uma loja de livros, criado com o objetivo
 
 # Navegação lateral e Aba de Destaque
 
-![BOOKSTORE_WEB](src/assets/Foto2.PNG)
+![BOOKSTORE_WEB](src/assets/foto2.PNG)
 
 
 # Carrossel de livros
 
 
-![BOOKSTORE_WEB](src/assets/Foto3.PNG)
+![BOOKSTORE_WEB](src/assets/foto3.PNG)
 
 ## Referência 
 
